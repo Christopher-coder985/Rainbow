@@ -1,18 +1,28 @@
-red1{
-    color:red;
+body{
+    text-align:center;
 }
-orange1{
-    color:orange;
+
+nav{
+    border: 5px solid black;
 }
-yellow1{
-    color:yellow;
+a{
+    text-align:center;
 }
-green1{
-    color:green;
+red{
+    background-color:lightcoral;
 }
-blue1{
-    color:blue;
+orange{
+    background-color:lightsalmon;
 }
-purple1{
-    color:purple;
+yellow{
+    background-color:lightyellow;
+}
+green{
+    background-color:lightgreen;
+}
+blue{
+    background-color:lightblue;
+}
+purple{
+    background-color:lightpink;
 }
